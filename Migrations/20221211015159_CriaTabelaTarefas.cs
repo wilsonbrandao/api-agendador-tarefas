@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace apiagendadortarefas.Migrations
 {
     /// <inheritdoc />
-    public partial class CriacaoTabelaTarefas : Migration
+    public partial class CriaTabelaTarefas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

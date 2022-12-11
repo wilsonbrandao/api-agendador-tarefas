@@ -12,8 +12,8 @@ using api_agendador_tarefas.Context;
 namespace apiagendadortarefas.Migrations
 {
     [DbContext(typeof(AgendadorTarefasContext))]
-    [Migration("20221211003755_CriacaoTabelaTarefas")]
-    partial class CriacaoTabelaTarefas
+    [Migration("20221211015159_CriaTabelaTarefas")]
+    partial class CriaTabelaTarefas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
